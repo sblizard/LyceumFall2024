@@ -5,18 +5,16 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={`${process.env.PUBLIC_URL}/techx_unc_logo.jpeg`} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          Edit this line of code for the deliverable!
+        </p>
+        <p>
+          Via Ad Excellentiam
+        </p>
       </header>
     </div>
   );
