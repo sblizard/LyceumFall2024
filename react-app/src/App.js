@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Edit this line of code for the deliverable!
+          Hi! :) How are you? I know I am doing great! :D
         </p>
         <p>
           Via Ad Excellentiam
